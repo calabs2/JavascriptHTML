@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    padding: 5px 0;
+    background: black;
+    color: white;
+}
+h1, h2 {
+    font-size: 25px;
+}
+h3 {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+head {
+    background: black;
+    color: white;
+    text-align: center;
+}
+html {
+    font-family: monospace, Arial, Helvetica
+}
